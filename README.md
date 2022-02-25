@@ -1,9 +1,7 @@
-### Hi there 👋
+### 👋 Hello! I’m Ian (he/him)
 
 <!--
-**Battery0/Battery0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* 📫 <a href="mailto:king.ian.uk@gmail.com">&nbsp; Email</a> or find me on LinkedIn <a href="https://www.linkedin.com/in/iankinguk/">LinkedIn</a>
+
+<p align="left">
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=battery0&show_icons=true&theme=onedark" />  
+  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battery0&layout=compact&theme=onedark"/>
+</p>
