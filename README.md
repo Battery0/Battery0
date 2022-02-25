@@ -6,7 +6,7 @@
 
 - **I’m currently learning: Ruby, Sinatra, JavaScript, MERN stack, PostgreSQL**
 
-- **<a href="mailto:king.ian.uk@gmail.com">Email</a> or find me on LinkedIn <a href="https://www.linkedin.com/in/iankinguk/">LinkedIn</a>**
+- **<a href="mailto:king.ian.uk@gmail.com">Email</a> or find me on <a href="https://www.linkedin.com/in/iankinguk/">LinkedIn</a>**
 
 <br>
 
