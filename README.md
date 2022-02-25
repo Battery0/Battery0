@@ -1,14 +1,13 @@
 <h2 align="center"> 👋 Hello! I’m Ian (he/him) </h2>
 
-<br>
 
-**View my [CV](https://github.com/Battery0/CV)**
 
-**I’m currently learning: Ruby, Sinatra, JavaScript, MERN stack, PostgreSQL**
+- **View my [CV](https://github.com/Battery0/CV)**
 
-**<a href="mailto:king.ian.uk@gmail.com">Email</a> or find me on LinkedIn <a href="https://www.linkedin.com/in/iankinguk/">LinkedIn</a>**
+- **I’m currently learning: Ruby, Sinatra, JavaScript, MERN stack, PostgreSQL**
 
-<br>
+- **<a href="mailto:king.ian.uk@gmail.com">Email</a> or find me on LinkedIn <a href="https://www.linkedin.com/in/iankinguk/">LinkedIn</a>**
+
 <br>
 
 <p align="left">
