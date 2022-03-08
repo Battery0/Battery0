@@ -12,5 +12,4 @@
 
 <p align="left">
   <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=battery0&show_icons=true&theme=onedark" />  
-  <img height="160px" style="padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battery0&layout=compact&theme=onedark"/>
 </p>
